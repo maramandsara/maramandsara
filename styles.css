@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(246, 234, 203);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding:5%;
+    border-left:10%;
+
+}
+h1{
+   background-color: rgb(226, 185, 177); 
+   color:white;
+   font-size: 100;
+   text-align: center;
+}
+
+h2,h3{
+    font-size:large;
+    color:rgb(184, 109, 132);
+}
+
+ul{
+    color:rgb(177, 105, 91);
+}
+
+h4{
+    color:rgb(116, 64, 109);
+}
+
+blockquote{
+    color:rgb(88, 33, 42);
+}
+
+footer{
+    background-color: #F1D3CE;
+    color:rgb(88, 33, 42);
+}
+
+.contact{
+    color:rgb(160, 64, 80);
+}
+
+form{
+    color:rgb(150, 69, 82);
+}
+
+p{
+    color:rgb(146, 59, 74);
+}
+
+hr{
+    border:dotted rgb(150, 77, 89) 6px;
+    border-bottom: none;
+}
+
+#Submit {
+    background: #e683cc;
+    background-image: -webkit-linear-gradient(top, #e683cc, #d66585);
+    background-image: -moz-linear-gradient(top, #e683cc, #d66585);
+    background-image: -ms-linear-gradient(top, #e683cc, #d66585);
+    background-image: -o-linear-gradient(top, #e683cc, #d66585);
+    background-image: linear-gradient(to bottom, #e683cc, #d66585);
+    -webkit-border-radius: 24;
+    -moz-border-radius: 24;
+    border-radius: 24px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 14px;
+    padding: 10px 20px 10px 20px;
+    border: solid #bf2c7a 2px;
+    text-decoration: none;
+    width:6rem;
+  }
+  
+ 
+strong{
+    color:#5f213a;
+}
+
+.card-title{
+    color:#5f213a
+}
+.container{
+    background-color:white
+}
+
+
